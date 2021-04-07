@@ -13,6 +13,15 @@ body {
   max-width: 640px;
   margin: 0 auto;
   padding: 0.5rem;
+  font-weight: times;
+    border: solid #f0bc3a;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    margin-left: 9%;
+    margin-top: 1%;
+    background-color: black;
+    color: white;
 }
 
 header {
